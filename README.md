@@ -1,2 +1,2 @@
-# DBSCAN-Pointpillar-Ransac
+# DBSCAN-Pointpillar-RANSAC
 research
